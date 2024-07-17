@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.app.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/asirajeldeen/PycharmProjects/RAGAS",
@@ -89,7 +90,7 @@
       <updated>1721151965615</updated>
       <workItem from="1721151992800" duration="2492000" />
       <workItem from="1721211071312" duration="1686000" />
-      <workItem from="1721215161100" duration="1745000" />
+      <workItem from="1721215161100" duration="2196000" />
     </task>
     <servers />
   </component>
