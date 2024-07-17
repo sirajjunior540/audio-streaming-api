@@ -31,7 +31,7 @@ This is a FastAPI-based application that streams live audio using the PyAudio li
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/audio-streaming-api.git
+   git clone git@github.com:sirajjunior540/audio-streaming-api.git
    cd audio-streaming-api
    ```
 
